@@ -855,6 +855,7 @@ img {
 /** header-lower **/
 
 .header-lower{
+  height: 135px;
   position: relative;
   width: 100%;
   background: #fff;
