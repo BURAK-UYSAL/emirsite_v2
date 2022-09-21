@@ -1,0 +1,94 @@
+.logo {
+    border-radius: 100px !important;
+}
+
+
+
+/* kalite_bölümü__________________ */
+.sec-title {
+    text-align: left;
+    line-height: 50px;
+}
+
+#myli li:before {
+    content: "\25c6";
+    position: absolute;
+    left: -1em;
+    color: rgb(53, 153, 7);
+}
+
+/* .myhistory{display: flex !important;
+    flex-direction: row !important;
+justify-content: space-between;}
+     #myhistoryimg{margin-left: 25%;
+    margin-top: 25%;}
+
+    @media only screen and (max-width:1200px) {
+   
+        .myhistory{display: flex !important;
+            flex-direction: column !important;
+        justify-content: space-between;}
+        #myhistoryimg{margin-left: 0%;
+            margin-top: 0%;}
+      } */
+
+
+
+
+
+/* iletişim bölümü____________________________________
+     */
+
+
+.harita {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+
+.harita iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.mycol-7 {
+    margin-top: 12%;
+}
+
+
+
+
+
+
+
+/* foooooter___________________düzenlemesi aşagıda_____ */
+.my-autocon {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+}
+
+.main-footer .footer-logo .logo img {width: 29%;
+    border-radius: 333px !important;
+}
+
+/* _____________________bitiş_________________ */
+
+
+
+
+
+/* header_düzenlemesi aşagıda_______________________ */
+.header-top .info-box li::after {
+    position: absolute;
+    content: '';
+    background-color: rgba(255, 255, 255, 0.20);
+    width: 1px;
+    height: 20px;
+    top: 4px;
+    right: -30px;
+}
