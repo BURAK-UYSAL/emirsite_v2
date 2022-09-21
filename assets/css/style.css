@@ -344,7 +344,7 @@ figure{
   margin: 0px;
 }
 
-img {
+img { border-radius: 20px;
   display: inline-block;
   max-width: 100%;
   height: auto;
