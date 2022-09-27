@@ -440,7 +440,7 @@
   }
 
   .about-section{
-    padding: 70px 0px;
+    padding: 70px 0px 0px 0px;
   }
 
   .sec-pad{
@@ -510,7 +510,7 @@
   }
 
   .image_block_1 .image-box .image img{
-    max-width: 100%;
+    max-width: 93%;
   }
 
   .page-title .content-box h1{
