@@ -75,6 +75,22 @@ justify-content: space-between;}
 .main-footer .footer-logo .logo img {width: 29%;
     border-radius: 333px !important;
 }
+.myEmail{padding-left: 2%;}
+
+.emir-text{padding-left: 6%;
+    width: 250px;
+}
+
+@media (max-width: 595px){
+    .myEmail{display: flex;
+        flex-direction: row;
+        justify-content: flex-start !important;
+        align-items: center !important;
+        padding-left: 30px;}
+    
+    }
+
+
 
 /* _____________________bitiş_________________ */
 

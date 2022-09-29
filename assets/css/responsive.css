@@ -283,7 +283,7 @@
   }
 
   .main-footer .widget-section{
-    padding-bottom: 40px;
+    padding-bottom: 5px;
   }
 
   .main-footer .widget-section .pattern-layer{
@@ -638,7 +638,7 @@
   .main-footer .copyright,
   .main-footer .footer-nav{
     float: none;
-    text-align: center;
+    text-align: left;
   }
 
   .main-footer .footer-nav li{
